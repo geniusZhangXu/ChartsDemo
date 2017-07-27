@@ -1,0 +1,7 @@
+target 'ChartsDemo' do
+
+pod 'Charts'
+
+use_frameworks!
+
+end
